@@ -1,0 +1,1001 @@
+data_venda,id_produto,nome_produto,categoria,filial,vendedor,quantidade,preco_unitario
+2025-11-15,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Ana Silva,25,3.99
+2025-09-28,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Carlos Souza,34,5.25
+2025-11-25,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Carlos Souza,28,7.0
+2025-12-03,PD006,Chocolate Barra 90g,Doces,PINHAIS,Carlos Souza,5,8.5
+2025-09-04,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Mariana Costa,20,7.0
+2025-01-04,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Ana Silva,40,7.0
+2025-04-22,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Carlos Souza,26,6.5
+2025-01-07,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Ana Silva,5,8.5
+2025-08-18,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Carlos Souza,36,6.5
+2025-03-21,PD002,Soda Limão,Bebidas,COLOMBO,Ricardo Alves,31,4.75
+2025-12-11,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,João Pereira,20,8.5
+2025-05-13,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Ana Silva,7,7.0
+2025-02-07,PD006,Chocolate Barra 90g,Doces,COLOMBO,Ana Silva,24,8.5
+2025-08-18,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,35,3.99
+2025-06-05,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Fernanda Lima,34,6.5
+2025-03-15,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Ana Silva,18,7.0
+2025-12-25,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Carlos Souza,47,7.0
+2025-01-21,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,8,9.2
+2025-11-13,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,50,6.5
+2025-01-29,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Carlos Souza,22,8.5
+2025-12-17,PD002,Soda Limão,Bebidas,CURITIBA,João Pereira,48,4.75
+2025-02-10,PD006,Chocolate Barra 90g,Doces,CURITIBA,Ricardo Alves,15,8.5
+2025-07-11,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Ana Silva,35,8.5
+2025-02-07,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,14,7.0
+2025-09-05,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,14,9.2
+2025-09-24,PD006,Chocolate Barra 90g,Doces,CURITIBA,João Pereira,28,8.5
+2025-11-07,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Ana Silva,42,5.25
+2025-05-01,PD003,Água Tônica Clássica,Bebidas,CURITIBA,Ricardo Alves,24,3.99
+2025-05-28,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Ricardo Alves,7,6.5
+2025-08-13,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Ricardo Alves,47,5.25
+2025-04-23,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Carlos Souza,10,6.5
+2025-08-28,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Carlos Souza,9,8.5
+2025-11-24,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Fernanda Lima,40,3.99
+2025-05-18,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Carlos Souza,46,4.75
+2025-04-08,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Ana Silva,41,5.25
+2025-07-06,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Ana Silva,31,7.0
+2025-10-05,PD002,Soda Limão,Bebidas,PINHAIS,João Pereira,35,4.75
+2025-10-19,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Mariana Costa,14,5.25
+2025-06-29,PD002,Soda Limão,Bebidas,PINHAIS,Mariana Costa,13,4.75
+2025-09-07,PD006,Chocolate Barra 90g,Doces,CURITIBA,Fernanda Lima,48,8.5
+2025-03-18,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Mariana Costa,44,7.0
+2025-02-03,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Ana Silva,45,6.5
+2025-03-08,PD003,Água Tônica Clássica,Bebidas,CURITIBA,Fernanda Lima,41,3.99
+2025-03-31,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,João Pereira,46,7.0
+2025-02-22,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,43,5.25
+2025-05-07,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Mariana Costa,36,7.0
+2025-05-20,PD007,Suco Laranja 1L,Sucos,COLOMBO,Ricardo Alves,9,9.2
+2025-12-15,PD002,Soda Limão,Bebidas,COLOMBO,Ana Silva,6,4.75
+2025-08-05,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Carlos Souza,23,8.5
+2025-09-27,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,18,3.99
+2025-04-08,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Fernanda Lima,10,7.0
+2025-02-20,PD006,Chocolate Barra 90g,Doces,COLOMBO,Carlos Souza,11,8.5
+2025-06-05,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,Mariana Costa,47,5.25
+2025-12-24,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Ricardo Alves,37,7.0
+2025-02-08,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,João Pereira,23,8.5
+2025-10-12,PD002,Soda Limão,Bebidas,CURITIBA,Ana Silva,42,4.75
+2025-04-01,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Carlos Souza,5,7.0
+2025-04-02,PD007,Suco Laranja 1L,Sucos,CURITIBA,Ricardo Alves,18,9.2
+2025-08-20,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Carlos Souza,48,7.0
+2025-06-27,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Fernanda Lima,23,8.5
+2025-09-23,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Ana Silva,29,9.2
+2025-01-03,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Ricardo Alves,34,3.99
+2025-12-08,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Mariana Costa,41,9.2
+2025-11-20,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Mariana Costa,14,5.25
+2025-12-19,PD006,Chocolate Barra 90g,Doces,CURITIBA,Mariana Costa,17,8.5
+2025-07-29,PD003,Água Tônica Clássica,Bebidas,PINHAIS,João Pereira,23,3.99
+2025-06-13,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Ana Silva,37,8.5
+2025-07-22,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,42,9.2
+2025-09-04,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,João Pereira,47,7.0
+2025-06-28,PD007,Suco Laranja 1L,Sucos,PINHAIS,Ricardo Alves,24,9.2
+2025-06-08,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Carlos Souza,47,6.5
+2025-09-12,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Carlos Souza,45,8.5
+2025-12-06,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Ricardo Alves,21,4.75
+2025-12-28,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,14,9.2
+2025-09-01,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,40,3.99
+2025-01-12,PD007,Suco Laranja 1L,Sucos,CURITIBA,Fernanda Lima,36,9.2
+2025-10-28,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Ana Silva,33,9.2
+2025-02-16,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,19,4.75
+2025-09-03,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,João Pereira,42,6.5
+2025-01-12,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,João Pereira,10,6.5
+2025-03-13,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Mariana Costa,15,5.25
+2025-08-29,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Carlos Souza,21,6.5
+2025-04-06,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Ricardo Alves,14,8.5
+2025-10-12,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Ricardo Alves,8,8.5
+2025-10-03,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Ricardo Alves,16,7.0
+2025-01-07,PD002,Soda Limão,Bebidas,CURITIBA,Mariana Costa,26,4.75
+2025-11-05,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Carlos Souza,31,7.0
+2025-06-04,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,João Pereira,25,5.25
+2025-08-20,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,17,7.0
+2025-06-25,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Ana Silva,26,6.5
+2025-08-19,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Fernanda Lima,16,6.5
+2025-02-16,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,João Pereira,35,9.2
+2025-03-17,PD002,Soda Limão,Bebidas,CURITIBA,Mariana Costa,26,4.75
+2025-07-17,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Carlos Souza,38,5.25
+2025-11-26,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Ana Silva,19,3.99
+2025-07-25,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,5,7.0
+2025-02-15,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Carlos Souza,26,5.25
+2025-11-21,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Ana Silva,17,4.75
+2025-02-28,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Fernanda Lima,18,5.25
+2025-01-02,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,32,6.5
+2025-12-23,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Carlos Souza,9,8.5
+2025-09-04,PD006,Chocolate Barra 90g,Doces,CURITIBA,Fernanda Lima,43,8.5
+2025-03-24,PD007,Suco Laranja 1L,Sucos,COLOMBO,Ana Silva,6,9.2
+2025-11-16,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Fernanda Lima,23,7.0
+2025-03-01,PD003,Água Tônica Clássica,Bebidas,CURITIBA,João Pereira,37,3.99
+2025-01-26,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Ana Silva,40,5.25
+2025-03-17,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Ricardo Alves,8,8.5
+2025-01-23,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Carlos Souza,38,7.0
+2025-01-07,PD006,Chocolate Barra 90g,Doces,PINHAIS,Mariana Costa,27,8.5
+2025-10-19,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Ricardo Alves,29,6.5
+2025-12-14,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Ana Silva,49,7.0
+2025-06-22,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,49,4.75
+2025-07-09,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,Carlos Souza,5,6.5
+2025-04-11,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,João Pereira,44,6.5
+2025-04-28,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,João Pereira,13,6.5
+2025-11-30,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Carlos Souza,42,6.5
+2025-04-01,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Carlos Souza,28,8.5
+2025-04-03,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Mariana Costa,29,6.5
+2025-09-15,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Mariana Costa,19,9.2
+2025-02-09,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Mariana Costa,13,9.2
+2025-05-01,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Carlos Souza,44,4.75
+2025-01-01,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,Mariana Costa,16,5.25
+2025-10-02,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,12,9.2
+2025-06-22,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,João Pereira,8,6.5
+2025-06-22,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,14,4.75
+2025-09-17,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,31,9.2
+2025-01-12,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Ana Silva,37,5.25
+2025-07-28,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,Fernanda Lima,27,5.25
+2025-09-26,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Ricardo Alves,39,7.0
+2025-06-09,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Carlos Souza,27,6.5
+2025-06-29,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,49,4.75
+2025-05-05,PD007,Suco Laranja 1L,Sucos,COLOMBO,Ricardo Alves,46,9.2
+2025-01-28,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,Carlos Souza,41,5.25
+2025-02-26,PD007,Suco Laranja 1L,Sucos,COLOMBO,Ricardo Alves,23,9.2
+2025-08-09,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Mariana Costa,46,4.75
+2025-06-14,PD007,Suco Laranja 1L,Sucos,COLOMBO,Ricardo Alves,22,9.2
+2025-12-14,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Mariana Costa,42,5.25
+2025-12-02,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Ana Silva,14,3.99
+2025-04-27,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Ricardo Alves,24,4.75
+2025-07-06,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Fernanda Lima,39,5.25
+2025-11-30,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Fernanda Lima,8,7.0
+2025-05-21,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,João Pereira,26,6.5
+2025-12-18,PD006,Chocolate Barra 90g,Doces,COLOMBO,Mariana Costa,5,8.5
+2025-07-08,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Carlos Souza,10,8.5
+2025-10-06,PD007,Suco Laranja 1L,Sucos,PINHAIS,Ricardo Alves,13,9.2
+2025-12-15,PD007,Suco Laranja 1L,Sucos,COLOMBO,Ricardo Alves,10,9.2
+2025-06-29,PD006,Chocolate Barra 90g,Doces,CURITIBA,Ana Silva,36,8.5
+2025-05-22,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,19,9.2
+2025-08-18,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,Ricardo Alves,29,5.25
+2025-09-17,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Carlos Souza,49,7.0
+2025-05-22,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Mariana Costa,12,9.2
+2025-10-19,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,30,8.5
+2025-11-17,PD006,Chocolate Barra 90g,Doces,PINHAIS,João Pereira,46,8.5
+2025-09-02,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Mariana Costa,25,7.0
+2025-06-13,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Ana Silva,18,7.0
+2025-07-20,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Ana Silva,23,6.5
+2025-08-24,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Carlos Souza,12,9.2
+2025-11-03,PD007,Suco Laranja 1L,Sucos,COLOMBO,João Pereira,42,9.2
+2025-04-06,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Carlos Souza,33,6.5
+2025-05-28,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Ricardo Alves,50,7.0
+2025-06-25,PD002,Soda Limão,Bebidas,COLOMBO,Ricardo Alves,33,4.75
+2025-01-27,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,Ana Silva,35,5.25
+2025-11-18,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Ricardo Alves,25,9.2
+2025-06-27,PD007,Suco Laranja 1L,Sucos,CURITIBA,Ricardo Alves,16,9.2
+2025-10-27,PD006,Chocolate Barra 90g,Doces,PINHAIS,Mariana Costa,45,8.5
+2025-10-08,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Ana Silva,33,3.99
+2025-04-20,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Mariana Costa,15,8.5
+2025-07-25,PD007,Suco Laranja 1L,Sucos,PINHAIS,Ricardo Alves,35,9.2
+2025-05-09,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Carlos Souza,47,8.5
+2025-03-24,PD002,Soda Limão,Bebidas,CURITIBA,Mariana Costa,40,4.75
+2025-10-30,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Ana Silva,50,5.25
+2025-12-27,PD007,Suco Laranja 1L,Sucos,COLOMBO,Ricardo Alves,16,9.2
+2025-07-15,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,Ana Silva,48,5.25
+2025-09-30,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Ricardo Alves,41,8.5
+2025-10-23,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Ana Silva,7,6.5
+2025-02-13,PD006,Chocolate Barra 90g,Doces,PINHAIS,João Pereira,26,8.5
+2025-08-19,PD006,Chocolate Barra 90g,Doces,CURITIBA,Mariana Costa,22,8.5
+2025-11-20,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Ricardo Alves,15,6.5
+2025-08-02,PD002,Soda Limão,Bebidas,COLOMBO,Carlos Souza,33,4.75
+2025-03-15,PD002,Soda Limão,Bebidas,PINHAIS,Ricardo Alves,33,4.75
+2025-07-01,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,16,4.75
+2025-12-01,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Fernanda Lima,7,5.25
+2025-05-22,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Ana Silva,47,9.2
+2025-09-14,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Carlos Souza,33,8.5
+2025-04-24,PD003,Água Tônica Clássica,Bebidas,CURITIBA,Ana Silva,37,3.99
+2025-03-04,PD002,Soda Limão,Bebidas,CURITIBA,Mariana Costa,32,4.75
+2025-01-02,PD002,Soda Limão,Bebidas,COLOMBO,João Pereira,9,4.75
+2025-02-21,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Ricardo Alves,10,6.5
+2025-11-07,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Ana Silva,9,5.25
+2025-11-17,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,João Pereira,37,7.0
+2025-09-14,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Ricardo Alves,10,8.5
+2025-08-22,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Ricardo Alves,15,7.0
+2025-08-02,PD002,Soda Limão,Bebidas,CURITIBA,Ricardo Alves,47,4.75
+2025-02-16,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Mariana Costa,40,6.5
+2025-11-20,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,João Pereira,18,5.25
+2025-01-26,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Ana Silva,11,7.0
+2025-06-27,PD002,Soda Limão,Bebidas,COLOMBO,Fernanda Lima,46,4.75
+2025-08-11,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Ana Silva,33,6.5
+2025-12-13,PD003,Água Tônica Clássica,Bebidas,PINHAIS,Ana Silva,21,3.99
+2025-03-22,PD006,Chocolate Barra 90g,Doces,CURITIBA,Carlos Souza,48,8.5
+2025-12-06,PD007,Suco Laranja 1L,Sucos,CURITIBA,Mariana Costa,30,9.2
+2025-02-03,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Carlos Souza,7,7.0
+2025-03-31,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Ana Silva,14,8.5
+2025-09-28,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,João Pereira,50,6.5
+2025-07-15,PD007,Suco Laranja 1L,Sucos,CURITIBA,Carlos Souza,25,9.2
+2025-09-01,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Ana Silva,34,4.75
+2025-06-30,PD003,Água Tônica Clássica,Bebidas,COLOMBO,João Pereira,5,3.99
+2025-09-18,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Carlos Souza,16,7.0
+2025-08-07,PD007,Suco Laranja 1L,Sucos,PINHAIS,Carlos Souza,10,9.2
+2025-06-10,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Mariana Costa,30,5.25
+2025-12-08,PD006,Chocolate Barra 90g,Doces,COLOMBO,Mariana Costa,6,8.5
+2025-01-02,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,6,5.25
+2025-07-16,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Ana Silva,15,7.0
+2025-08-02,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Carlos Souza,10,3.99
+2025-12-27,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Carlos Souza,45,9.2
+2025-06-08,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Carlos Souza,19,8.5
+2025-11-08,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,Carlos Souza,35,6.5
+2025-12-21,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,João Pereira,23,6.5
+2025-12-26,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Fernanda Lima,26,6.5
+2025-01-02,PD003,Água Tônica Clássica,Bebidas,CURITIBA,Mariana Costa,12,3.99
+2025-07-25,PD006,Chocolate Barra 90g,Doces,COLOMBO,Ana Silva,37,8.5
+2025-04-15,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,15,3.99
+2025-02-16,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,45,5.25
+2025-03-18,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,João Pereira,45,7.0
+2025-02-11,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Ana Silva,43,8.5
+2025-07-11,PD006,Chocolate Barra 90g,Doces,PINHAIS,Ana Silva,12,8.5
+2025-12-01,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Ana Silva,25,5.25
+2025-04-02,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Mariana Costa,20,6.5
+2025-06-01,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Ricardo Alves,28,6.5
+2025-02-06,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Ana Silva,48,9.2
+2025-03-31,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Carlos Souza,45,6.5
+2025-12-02,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Mariana Costa,22,7.0
+2025-12-15,PD003,Água Tônica Clássica,Bebidas,PINHAIS,Ana Silva,14,3.99
+2025-04-11,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Ricardo Alves,36,6.5
+2025-06-02,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Ana Silva,46,9.2
+2025-05-12,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Ricardo Alves,19,7.0
+2025-10-13,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,João Pereira,9,5.25
+2025-09-13,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Carlos Souza,25,6.5
+2025-09-24,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,11,5.25
+2025-05-18,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,16,7.0
+2025-08-19,PD007,Suco Laranja 1L,Sucos,PINHAIS,Fernanda Lima,21,9.2
+2025-12-21,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,12,6.5
+2025-10-17,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,João Pereira,28,3.99
+2025-07-26,PD003,Água Tônica Clássica,Bebidas,CURITIBA,Fernanda Lima,41,3.99
+2025-07-25,PD002,Soda Limão,Bebidas,COLOMBO,Carlos Souza,48,4.75
+2025-04-02,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Carlos Souza,33,7.0
+2025-11-10,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Ricardo Alves,19,5.25
+2025-03-20,PD007,Suco Laranja 1L,Sucos,COLOMBO,Carlos Souza,30,9.2
+2025-04-11,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Ricardo Alves,8,7.0
+2025-04-22,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,41,3.99
+2025-01-05,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Fernanda Lima,39,7.0
+2025-11-27,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Ana Silva,23,7.0
+2025-12-28,PD007,Suco Laranja 1L,Sucos,PINHAIS,Carlos Souza,24,9.2
+2025-04-19,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,João Pereira,50,7.0
+2025-03-16,PD006,Chocolate Barra 90g,Doces,PINHAIS,Ricardo Alves,37,8.5
+2025-04-20,PD002,Soda Limão,Bebidas,ARAUCÁRIA,João Pereira,50,4.75
+2025-06-23,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,10,7.0
+2025-05-08,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,14,9.2
+2025-04-15,PD002,Soda Limão,Bebidas,PINHAIS,Mariana Costa,35,4.75
+2025-06-12,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Fernanda Lima,20,5.25
+2025-03-28,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Fernanda Lima,20,5.25
+2025-11-07,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Fernanda Lima,48,9.2
+2025-07-31,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Carlos Souza,41,4.75
+2025-10-02,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Ricardo Alves,14,4.75
+2025-01-02,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Ana Silva,43,6.5
+2025-10-29,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Carlos Souza,25,7.0
+2025-11-09,PD002,Soda Limão,Bebidas,PINHAIS,Ricardo Alves,19,4.75
+2025-04-12,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Carlos Souza,46,7.0
+2025-05-15,PD006,Chocolate Barra 90g,Doces,COLOMBO,Fernanda Lima,33,8.5
+2025-03-26,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Ricardo Alves,45,7.0
+2025-09-21,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Fernanda Lima,31,5.25
+2025-02-24,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Mariana Costa,25,4.75
+2025-11-12,PD003,Água Tônica Clássica,Bebidas,CURITIBA,Mariana Costa,37,3.99
+2025-08-30,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,Mariana Costa,32,5.25
+2025-11-03,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Mariana Costa,46,7.0
+2025-01-03,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,36,3.99
+2025-04-08,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Ana Silva,31,6.5
+2025-11-19,PD006,Chocolate Barra 90g,Doces,COLOMBO,Carlos Souza,30,8.5
+2025-04-28,PD002,Soda Limão,Bebidas,PINHAIS,Carlos Souza,34,4.75
+2025-09-05,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Mariana Costa,9,8.5
+2025-05-24,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,10,4.75
+2025-08-01,PD006,Chocolate Barra 90g,Doces,COLOMBO,Ricardo Alves,24,8.5
+2025-01-03,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,24,4.75
+2025-05-02,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,29,9.2
+2025-11-18,PD006,Chocolate Barra 90g,Doces,PINHAIS,Fernanda Lima,36,8.5
+2025-07-06,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,37,3.99
+2025-03-08,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Carlos Souza,44,5.25
+2025-04-28,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Ricardo Alves,11,7.0
+2025-11-23,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Fernanda Lima,20,7.0
+2025-08-03,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Fernanda Lima,35,3.99
+2025-07-08,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Fernanda Lima,16,3.99
+2025-11-29,PD002,Soda Limão,Bebidas,ARAUCÁRIA,João Pereira,33,4.75
+2025-04-26,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,João Pereira,15,6.5
+2025-06-07,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Carlos Souza,36,6.5
+2025-03-02,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Ricardo Alves,13,9.2
+2025-02-04,PD006,Chocolate Barra 90g,Doces,PINHAIS,Ricardo Alves,22,8.5
+2025-12-24,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Carlos Souza,25,7.0
+2025-03-13,PD006,Chocolate Barra 90g,Doces,COLOMBO,Ana Silva,39,8.5
+2025-09-29,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Ricardo Alves,25,6.5
+2025-05-03,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Ricardo Alves,11,3.99
+2025-03-09,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,João Pereira,50,6.5
+2025-04-17,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Ana Silva,40,5.25
+2025-03-14,PD007,Suco Laranja 1L,Sucos,COLOMBO,Carlos Souza,34,9.2
+2025-05-15,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Carlos Souza,34,8.5
+2025-08-12,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Fernanda Lima,26,8.5
+2025-11-25,PD006,Chocolate Barra 90g,Doces,PINHAIS,Fernanda Lima,13,8.5
+2025-07-10,PD002,Soda Limão,Bebidas,COLOMBO,Ana Silva,18,4.75
+2025-03-02,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Ricardo Alves,6,3.99
+2025-04-17,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Mariana Costa,32,7.0
+2025-04-28,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Mariana Costa,19,6.5
+2025-11-28,PD006,Chocolate Barra 90g,Doces,CURITIBA,Mariana Costa,5,8.5
+2025-08-12,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Ana Silva,7,7.0
+2025-01-01,PD002,Soda Limão,Bebidas,CURITIBA,Ricardo Alves,38,4.75
+2025-05-15,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,50,4.75
+2025-10-12,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,João Pereira,29,7.0
+2025-10-05,PD002,Soda Limão,Bebidas,PINHAIS,João Pereira,11,4.75
+2025-08-18,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,João Pereira,21,3.99
+2025-03-13,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Ana Silva,31,7.0
+2025-01-16,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Mariana Costa,5,3.99
+2025-06-07,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,27,7.0
+2025-07-25,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Ricardo Alves,24,3.99
+2025-02-12,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Fernanda Lima,43,4.75
+2025-06-11,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Ana Silva,30,8.5
+2025-11-28,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Mariana Costa,25,6.5
+2025-10-11,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Ricardo Alves,33,3.99
+2025-10-13,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,João Pereira,39,5.25
+2025-09-07,PD002,Soda Limão,Bebidas,CURITIBA,João Pereira,47,4.75
+2025-10-16,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,36,6.5
+2025-05-19,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Mariana Costa,27,6.5
+2025-01-23,PD007,Suco Laranja 1L,Sucos,PINHAIS,Ricardo Alves,40,9.2
+2025-06-05,PD002,Soda Limão,Bebidas,PINHAIS,Fernanda Lima,47,4.75
+2025-10-20,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Fernanda Lima,17,3.99
+2025-07-01,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,João Pereira,6,5.25
+2025-07-30,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Fernanda Lima,26,6.5
+2025-07-17,PD007,Suco Laranja 1L,Sucos,PINHAIS,Ana Silva,12,9.2
+2025-10-11,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,27,8.5
+2025-10-08,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Fernanda Lima,40,6.5
+2025-02-25,PD007,Suco Laranja 1L,Sucos,CURITIBA,João Pereira,6,9.2
+2025-04-11,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,15,4.75
+2025-08-28,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,João Pereira,7,8.5
+2025-11-21,PD002,Soda Limão,Bebidas,COLOMBO,Mariana Costa,33,4.75
+2025-05-10,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Fernanda Lima,31,6.5
+2025-01-04,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Ricardo Alves,26,5.25
+2025-09-16,PD007,Suco Laranja 1L,Sucos,COLOMBO,Ricardo Alves,10,9.2
+2025-05-05,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Ricardo Alves,48,9.2
+2025-08-01,PD002,Soda Limão,Bebidas,PINHAIS,Ana Silva,44,4.75
+2025-04-26,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,22,8.5
+2025-11-20,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Mariana Costa,25,9.2
+2025-02-26,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Mariana Costa,15,5.25
+2025-12-30,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Mariana Costa,41,6.5
+2025-08-01,PD002,Soda Limão,Bebidas,COLOMBO,João Pereira,47,4.75
+2025-03-07,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Carlos Souza,10,3.99
+2025-04-04,PD002,Soda Limão,Bebidas,COLOMBO,Ana Silva,14,4.75
+2025-10-23,PD003,Água Tônica Clássica,Bebidas,PINHAIS,Mariana Costa,28,3.99
+2025-04-09,PD003,Água Tônica Clássica,Bebidas,COLOMBO,João Pereira,47,3.99
+2025-05-10,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,29,8.5
+2025-07-29,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Ana Silva,45,7.0
+2025-10-01,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,João Pereira,35,4.75
+2025-09-29,PD007,Suco Laranja 1L,Sucos,COLOMBO,Carlos Souza,40,9.2
+2025-07-28,PD002,Soda Limão,Bebidas,PINHAIS,Fernanda Lima,25,4.75
+2025-05-19,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Mariana Costa,8,7.0
+2025-06-09,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Carlos Souza,32,6.5
+2025-07-08,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Ricardo Alves,21,8.5
+2025-07-11,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Fernanda Lima,34,3.99
+2025-09-12,PD002,Soda Limão,Bebidas,CURITIBA,João Pereira,18,4.75
+2025-06-06,PD003,Água Tônica Clássica,Bebidas,CURITIBA,Mariana Costa,43,3.99
+2025-12-09,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Ricardo Alves,22,7.0
+2025-09-11,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Carlos Souza,31,7.0
+2025-05-28,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,João Pereira,41,5.25
+2025-12-07,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Fernanda Lima,21,5.25
+2025-10-12,PD007,Suco Laranja 1L,Sucos,CURITIBA,Ricardo Alves,36,9.2
+2025-09-10,PD006,Chocolate Barra 90g,Doces,CURITIBA,Fernanda Lima,30,8.5
+2025-12-05,PD006,Chocolate Barra 90g,Doces,PINHAIS,Carlos Souza,44,8.5
+2025-12-16,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Ana Silva,15,8.5
+2025-02-07,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Carlos Souza,8,5.25
+2025-08-03,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Fernanda Lima,45,4.75
+2025-06-27,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,32,7.0
+2025-05-20,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Mariana Costa,39,7.0
+2025-07-11,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Mariana Costa,27,7.0
+2025-05-12,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Carlos Souza,21,8.5
+2025-11-13,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,João Pereira,23,7.0
+2025-09-21,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,João Pereira,44,7.0
+2025-11-20,PD007,Suco Laranja 1L,Sucos,COLOMBO,Carlos Souza,38,9.2
+2025-05-30,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Mariana Costa,7,3.99
+2025-01-07,PD006,Chocolate Barra 90g,Doces,COLOMBO,Mariana Costa,41,8.5
+2025-06-29,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Ana Silva,40,6.5
+2025-08-07,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Mariana Costa,30,5.25
+2025-07-28,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,João Pereira,8,6.5
+2025-05-12,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Ana Silva,50,6.5
+2025-08-28,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,João Pereira,28,4.75
+2025-01-16,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Ricardo Alves,32,9.2
+2025-09-07,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,João Pereira,21,5.25
+2025-02-06,PD003,Água Tônica Clássica,Bebidas,PINHAIS,Carlos Souza,14,3.99
+2025-04-11,PD003,Água Tônica Clássica,Bebidas,PINHAIS,Fernanda Lima,18,3.99
+2025-11-16,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Ana Silva,18,6.5
+2025-06-30,PD002,Soda Limão,Bebidas,PINHAIS,Carlos Souza,23,4.75
+2025-10-18,PD006,Chocolate Barra 90g,Doces,COLOMBO,Fernanda Lima,9,8.5
+2025-02-05,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Ricardo Alves,45,7.0
+2025-01-14,PD002,Soda Limão,Bebidas,COLOMBO,Ana Silva,9,4.75
+2025-07-28,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Ana Silva,44,6.5
+2025-10-30,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,19,7.0
+2025-12-27,PD002,Soda Limão,Bebidas,CURITIBA,João Pereira,41,4.75
+2025-04-01,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Carlos Souza,20,9.2
+2025-08-04,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Mariana Costa,29,7.0
+2025-05-22,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,João Pereira,48,6.5
+2025-08-25,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,João Pereira,18,6.5
+2025-07-08,PD006,Chocolate Barra 90g,Doces,PINHAIS,João Pereira,47,8.5
+2025-10-07,PD002,Soda Limão,Bebidas,CURITIBA,Carlos Souza,50,4.75
+2025-03-24,PD006,Chocolate Barra 90g,Doces,COLOMBO,Ricardo Alves,40,8.5
+2025-10-05,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,João Pereira,24,6.5
+2025-06-03,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,5,5.25
+2025-02-07,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,João Pereira,20,8.5
+2025-10-09,PD003,Água Tônica Clássica,Bebidas,PINHAIS,Carlos Souza,42,3.99
+2025-06-30,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Fernanda Lima,46,8.5
+2025-12-30,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Ana Silva,16,7.0
+2025-01-19,PD002,Soda Limão,Bebidas,COLOMBO,Fernanda Lima,40,4.75
+2025-04-28,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Ricardo Alves,39,3.99
+2025-08-17,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Carlos Souza,22,7.0
+2025-01-08,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Mariana Costa,47,7.0
+2025-02-13,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,49,5.25
+2025-01-16,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Mariana Costa,10,3.99
+2025-11-22,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Ricardo Alves,20,6.5
+2025-10-25,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Mariana Costa,21,5.25
+2025-09-05,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Mariana Costa,21,3.99
+2025-09-05,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Fernanda Lima,41,7.0
+2025-10-04,PD007,Suco Laranja 1L,Sucos,CURITIBA,Carlos Souza,8,9.2
+2025-09-15,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,Ricardo Alves,18,5.25
+2025-04-02,PD007,Suco Laranja 1L,Sucos,CURITIBA,Carlos Souza,42,9.2
+2025-04-06,PD003,Água Tônica Clássica,Bebidas,CURITIBA,João Pereira,22,3.99
+2025-06-01,PD003,Água Tônica Clássica,Bebidas,CURITIBA,João Pereira,6,3.99
+2025-07-17,PD002,Soda Limão,Bebidas,CURITIBA,João Pereira,21,4.75
+2025-10-26,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Ricardo Alves,18,6.5
+2025-01-02,PD006,Chocolate Barra 90g,Doces,CURITIBA,Carlos Souza,34,8.5
+2025-01-07,PD006,Chocolate Barra 90g,Doces,CURITIBA,Carlos Souza,47,8.5
+2025-11-27,PD006,Chocolate Barra 90g,Doces,COLOMBO,Mariana Costa,49,8.5
+2025-11-06,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Carlos Souza,12,3.99
+2025-04-14,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,21,9.2
+2025-05-02,PD006,Chocolate Barra 90g,Doces,PINHAIS,Mariana Costa,9,8.5
+2025-02-04,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Fernanda Lima,32,6.5
+2025-06-17,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Carlos Souza,37,3.99
+2025-06-11,PD006,Chocolate Barra 90g,Doces,PINHAIS,Ricardo Alves,35,8.5
+2025-02-03,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,João Pereira,47,7.0
+2025-12-19,PD002,Soda Limão,Bebidas,PINHAIS,Carlos Souza,11,4.75
+2025-06-29,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,João Pereira,35,7.0
+2025-12-28,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,Fernanda Lima,35,5.25
+2025-04-21,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Ana Silva,24,6.5
+2025-10-14,PD007,Suco Laranja 1L,Sucos,PINHAIS,Carlos Souza,25,9.2
+2025-09-01,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Ricardo Alves,48,6.5
+2025-12-30,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Ana Silva,45,5.25
+2025-09-01,PD002,Soda Limão,Bebidas,CURITIBA,Carlos Souza,39,4.75
+2025-04-21,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Ricardo Alves,5,5.25
+2025-01-23,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Fernanda Lima,9,9.2
+2025-08-19,PD007,Suco Laranja 1L,Sucos,PINHAIS,Fernanda Lima,15,9.2
+2025-11-07,PD002,Soda Limão,Bebidas,COLOMBO,Mariana Costa,16,4.75
+2025-03-07,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Carlos Souza,43,9.2
+2025-03-29,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Ricardo Alves,16,7.0
+2025-03-29,PD007,Suco Laranja 1L,Sucos,PINHAIS,Ana Silva,9,9.2
+2025-04-22,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Fernanda Lima,40,5.25
+2025-06-02,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Ricardo Alves,43,5.25
+2025-05-17,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,João Pereira,33,3.99
+2025-01-15,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Mariana Costa,48,7.0
+2025-03-06,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,20,7.0
+2025-06-25,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Ricardo Alves,8,8.5
+2025-01-22,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,João Pereira,23,4.75
+2025-03-11,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Carlos Souza,19,6.5
+2025-08-27,PD007,Suco Laranja 1L,Sucos,CURITIBA,Fernanda Lima,32,9.2
+2025-09-10,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Ana Silva,40,4.75
+2025-10-06,PD006,Chocolate Barra 90g,Doces,CURITIBA,Ana Silva,29,8.5
+2025-07-08,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Ana Silva,45,3.99
+2025-09-29,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,6,7.0
+2025-12-20,PD007,Suco Laranja 1L,Sucos,CURITIBA,Mariana Costa,19,9.2
+2025-10-10,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Mariana Costa,33,7.0
+2025-08-27,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Ricardo Alves,35,3.99
+2025-05-14,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Carlos Souza,7,7.0
+2025-03-25,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,34,7.0
+2025-10-01,PD003,Água Tônica Clássica,Bebidas,CURITIBA,Ana Silva,40,3.99
+2025-02-14,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Carlos Souza,50,7.0
+2025-10-12,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,27,3.99
+2025-01-03,PD006,Chocolate Barra 90g,Doces,PINHAIS,Mariana Costa,14,8.5
+2025-01-15,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Ana Silva,26,3.99
+2025-10-27,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Mariana Costa,28,8.5
+2025-06-24,PD002,Soda Limão,Bebidas,COLOMBO,Fernanda Lima,23,4.75
+2025-01-04,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Ana Silva,39,9.2
+2025-02-10,PD006,Chocolate Barra 90g,Doces,COLOMBO,Mariana Costa,25,8.5
+2025-01-20,PD007,Suco Laranja 1L,Sucos,CURITIBA,João Pereira,24,9.2
+2025-09-01,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Ana Silva,49,7.0
+2025-06-07,PD006,Chocolate Barra 90g,Doces,PINHAIS,Fernanda Lima,33,8.5
+2025-05-01,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Carlos Souza,22,3.99
+2025-06-09,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,6,8.5
+2025-02-18,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Mariana Costa,14,9.2
+2025-04-11,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,João Pereira,33,7.0
+2025-04-26,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Carlos Souza,17,9.2
+2025-02-05,PD006,Chocolate Barra 90g,Doces,COLOMBO,Mariana Costa,10,8.5
+2025-04-25,PD007,Suco Laranja 1L,Sucos,COLOMBO,Carlos Souza,39,9.2
+2025-08-13,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,João Pereira,9,7.0
+2025-03-09,PD002,Soda Limão,Bebidas,COLOMBO,João Pereira,21,4.75
+2025-04-09,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Carlos Souza,11,9.2
+2025-08-15,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Carlos Souza,39,7.0
+2025-11-19,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,João Pereira,26,6.5
+2025-08-23,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Fernanda Lima,26,6.5
+2025-05-12,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Ricardo Alves,11,7.0
+2025-09-13,PD003,Água Tônica Clássica,Bebidas,PINHAIS,Fernanda Lima,34,3.99
+2025-02-23,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Fernanda Lima,13,6.5
+2025-11-28,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Carlos Souza,22,5.25
+2025-09-27,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,6,6.5
+2025-10-13,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,João Pereira,32,5.25
+2025-05-25,PD002,Soda Limão,Bebidas,ARAUCÁRIA,João Pereira,8,4.75
+2025-09-23,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Carlos Souza,11,4.75
+2025-11-20,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Mariana Costa,37,4.75
+2025-06-21,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Mariana Costa,16,3.99
+2025-06-12,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,Fernanda Lima,22,5.25
+2025-10-11,PD006,Chocolate Barra 90g,Doces,PINHAIS,João Pereira,42,8.5
+2025-07-25,PD006,Chocolate Barra 90g,Doces,COLOMBO,Carlos Souza,31,8.5
+2025-12-03,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Ana Silva,8,5.25
+2025-05-15,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Ana Silva,13,7.0
+2025-04-30,PD007,Suco Laranja 1L,Sucos,COLOMBO,Ricardo Alves,43,9.2
+2025-08-05,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Ricardo Alves,31,3.99
+2025-03-03,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,João Pereira,31,7.0
+2025-01-13,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Ana Silva,25,4.75
+2025-09-21,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,8,7.0
+2025-02-04,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Ana Silva,23,6.5
+2025-12-14,PD003,Água Tônica Clássica,Bebidas,PINHAIS,João Pereira,22,3.99
+2025-12-22,PD002,Soda Limão,Bebidas,ARAUCÁRIA,João Pereira,17,4.75
+2025-05-27,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Mariana Costa,28,5.25
+2025-09-24,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Ana Silva,27,6.5
+2025-07-27,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Fernanda Lima,36,6.5
+2025-12-28,PD002,Soda Limão,Bebidas,CURITIBA,João Pereira,49,4.75
+2025-11-04,PD007,Suco Laranja 1L,Sucos,COLOMBO,Mariana Costa,23,9.2
+2025-11-02,PD003,Água Tônica Clássica,Bebidas,PINHAIS,Mariana Costa,32,3.99
+2025-08-30,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Carlos Souza,14,4.75
+2025-02-15,PD006,Chocolate Barra 90g,Doces,PINHAIS,Carlos Souza,24,8.5
+2025-10-02,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Ana Silva,20,6.5
+2025-09-18,PD003,Água Tônica Clássica,Bebidas,PINHAIS,Ana Silva,21,3.99
+2025-08-25,PD007,Suco Laranja 1L,Sucos,PINHAIS,João Pereira,14,9.2
+2025-03-13,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Carlos Souza,41,7.0
+2025-03-11,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Ricardo Alves,10,7.0
+2025-03-14,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Fernanda Lima,25,6.5
+2025-09-16,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Ana Silva,13,5.25
+2025-12-23,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,João Pereira,20,5.25
+2025-12-21,PD006,Chocolate Barra 90g,Doces,PINHAIS,Fernanda Lima,21,8.5
+2025-04-06,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,João Pereira,17,6.5
+2025-03-29,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Ana Silva,19,9.2
+2025-03-30,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Ricardo Alves,21,5.25
+2025-11-09,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,29,6.5
+2025-09-18,PD002,Soda Limão,Bebidas,COLOMBO,Ana Silva,13,4.75
+2025-04-01,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Carlos Souza,44,6.5
+2025-09-27,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Mariana Costa,49,3.99
+2025-11-15,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Ana Silva,16,7.0
+2025-08-23,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Ricardo Alves,15,5.25
+2025-04-12,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Mariana Costa,6,5.25
+2025-02-03,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Fernanda Lima,31,7.0
+2025-11-10,PD007,Suco Laranja 1L,Sucos,CURITIBA,Fernanda Lima,9,9.2
+2025-09-17,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Ana Silva,47,6.5
+2025-06-04,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Ana Silva,22,3.99
+2025-07-21,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,45,8.5
+2025-02-06,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Carlos Souza,19,8.5
+2025-01-24,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,João Pereira,31,8.5
+2025-01-17,PD006,Chocolate Barra 90g,Doces,COLOMBO,Ana Silva,37,8.5
+2025-08-07,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Carlos Souza,43,7.0
+2025-04-03,PD003,Água Tônica Clássica,Bebidas,CURITIBA,João Pereira,24,3.99
+2025-03-22,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,João Pereira,20,5.25
+2025-09-18,PD006,Chocolate Barra 90g,Doces,COLOMBO,Ricardo Alves,46,8.5
+2025-04-06,PD007,Suco Laranja 1L,Sucos,PINHAIS,João Pereira,15,9.2
+2025-11-22,PD007,Suco Laranja 1L,Sucos,CURITIBA,Ana Silva,36,9.2
+2025-03-26,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,Ricardo Alves,15,5.25
+2025-02-04,PD006,Chocolate Barra 90g,Doces,PINHAIS,Mariana Costa,8,8.5
+2025-09-25,PD006,Chocolate Barra 90g,Doces,PINHAIS,Fernanda Lima,42,8.5
+2025-07-19,PD003,Água Tônica Clássica,Bebidas,PINHAIS,João Pereira,13,3.99
+2025-01-12,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,João Pereira,49,3.99
+2025-09-19,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Carlos Souza,36,5.25
+2025-10-03,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Carlos Souza,16,6.5
+2025-10-05,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,44,7.0
+2025-02-13,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Ricardo Alves,12,9.2
+2025-05-01,PD006,Chocolate Barra 90g,Doces,CURITIBA,João Pereira,27,8.5
+2025-08-20,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Mariana Costa,26,8.5
+2025-11-18,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,João Pereira,37,5.25
+2025-10-21,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Carlos Souza,16,6.5
+2025-02-10,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Ricardo Alves,39,6.5
+2025-05-15,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Fernanda Lima,47,7.0
+2025-10-15,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Carlos Souza,39,8.5
+2025-12-10,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Mariana Costa,31,8.5
+2025-04-22,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Mariana Costa,20,5.25
+2025-04-25,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,44,7.0
+2025-02-21,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Carlos Souza,12,4.75
+2025-07-03,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,João Pereira,24,3.99
+2025-10-10,PD007,Suco Laranja 1L,Sucos,PINHAIS,Fernanda Lima,12,9.2
+2025-08-21,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,46,8.5
+2025-03-04,PD002,Soda Limão,Bebidas,CURITIBA,Fernanda Lima,15,4.75
+2025-08-08,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,João Pereira,16,8.5
+2025-01-30,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Carlos Souza,46,6.5
+2025-04-23,PD006,Chocolate Barra 90g,Doces,PINHAIS,Ricardo Alves,33,8.5
+2025-06-25,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Carlos Souza,19,6.5
+2025-09-17,PD007,Suco Laranja 1L,Sucos,CURITIBA,Carlos Souza,36,9.2
+2025-01-03,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Ana Silva,9,9.2
+2025-06-11,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Ana Silva,42,5.25
+2025-09-08,PD002,Soda Limão,Bebidas,CURITIBA,Ricardo Alves,28,4.75
+2025-04-05,PD007,Suco Laranja 1L,Sucos,COLOMBO,Fernanda Lima,30,9.2
+2025-10-16,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,19,7.0
+2025-06-08,PD007,Suco Laranja 1L,Sucos,CURITIBA,Carlos Souza,5,9.2
+2025-05-24,PD002,Soda Limão,Bebidas,PINHAIS,Fernanda Lima,14,4.75
+2025-10-29,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Ricardo Alves,35,7.0
+2025-07-27,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Carlos Souza,16,7.0
+2025-01-10,PD002,Soda Limão,Bebidas,CURITIBA,João Pereira,45,4.75
+2025-09-29,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Ana Silva,41,7.0
+2025-11-10,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Ana Silva,47,7.0
+2025-06-22,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Ana Silva,38,5.25
+2025-08-10,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,8,4.75
+2025-01-09,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,João Pereira,50,6.5
+2025-02-25,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Mariana Costa,6,3.99
+2025-12-27,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,50,5.25
+2025-04-01,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Carlos Souza,47,9.2
+2025-11-11,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,Fernanda Lima,45,5.25
+2025-11-01,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Fernanda Lima,45,7.0
+2025-07-15,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Ricardo Alves,20,7.0
+2025-08-06,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Ricardo Alves,30,5.25
+2025-01-29,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Ana Silva,47,6.5
+2025-03-03,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Fernanda Lima,44,6.5
+2025-05-24,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,5,4.75
+2025-03-29,PD006,Chocolate Barra 90g,Doces,COLOMBO,Ricardo Alves,44,8.5
+2025-10-04,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Carlos Souza,24,4.75
+2025-01-07,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Fernanda Lima,6,7.0
+2025-11-30,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,45,6.5
+2025-12-05,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Carlos Souza,26,7.0
+2025-04-28,PD006,Chocolate Barra 90g,Doces,CURITIBA,João Pereira,24,8.5
+2025-01-21,PD002,Soda Limão,Bebidas,PINHAIS,Mariana Costa,36,4.75
+2025-10-07,PD002,Soda Limão,Bebidas,PINHAIS,Mariana Costa,8,4.75
+2025-08-28,PD007,Suco Laranja 1L,Sucos,COLOMBO,Ana Silva,33,9.2
+2025-10-01,PD006,Chocolate Barra 90g,Doces,CURITIBA,Ana Silva,48,8.5
+2025-10-26,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Ricardo Alves,34,5.25
+2025-01-13,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Ricardo Alves,43,7.0
+2025-08-09,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,Ricardo Alves,30,5.25
+2025-06-16,PD006,Chocolate Barra 90g,Doces,COLOMBO,Mariana Costa,22,8.5
+2025-04-12,PD006,Chocolate Barra 90g,Doces,CURITIBA,Ricardo Alves,37,8.5
+2025-07-19,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Mariana Costa,45,5.25
+2025-01-22,PD006,Chocolate Barra 90g,Doces,COLOMBO,Ana Silva,32,8.5
+2025-08-06,PD003,Água Tônica Clássica,Bebidas,CURITIBA,João Pereira,44,3.99
+2025-03-26,PD006,Chocolate Barra 90g,Doces,CURITIBA,Ricardo Alves,17,8.5
+2025-02-03,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Ana Silva,6,6.5
+2025-04-29,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Carlos Souza,49,7.0
+2025-11-21,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,11,6.5
+2025-02-05,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,João Pereira,32,8.5
+2025-02-10,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,42,7.0
+2025-08-12,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Mariana Costa,21,5.25
+2025-11-24,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Mariana Costa,42,5.25
+2025-11-08,PD003,Água Tônica Clássica,Bebidas,CURITIBA,João Pereira,18,3.99
+2025-09-05,PD007,Suco Laranja 1L,Sucos,COLOMBO,Carlos Souza,44,9.2
+2025-11-14,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Mariana Costa,34,7.0
+2025-04-19,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,31,7.0
+2025-03-04,PD002,Soda Limão,Bebidas,COLOMBO,Ana Silva,49,4.75
+2025-09-19,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Mariana Costa,45,4.75
+2025-02-28,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Carlos Souza,30,7.0
+2025-04-12,PD002,Soda Limão,Bebidas,CURITIBA,Carlos Souza,20,4.75
+2025-04-09,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Ana Silva,26,5.25
+2025-04-06,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Mariana Costa,6,6.5
+2025-09-11,PD003,Água Tônica Clássica,Bebidas,CURITIBA,Ricardo Alves,21,3.99
+2025-04-04,PD007,Suco Laranja 1L,Sucos,COLOMBO,Ricardo Alves,16,9.2
+2025-04-06,PD002,Soda Limão,Bebidas,COLOMBO,Fernanda Lima,11,4.75
+2025-07-30,PD002,Soda Limão,Bebidas,ARAUCÁRIA,João Pereira,32,4.75
+2025-07-21,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Ricardo Alves,19,5.25
+2025-11-07,PD003,Água Tônica Clássica,Bebidas,CURITIBA,João Pereira,26,3.99
+2025-10-22,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Mariana Costa,34,7.0
+2025-12-16,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Carlos Souza,27,8.5
+2025-02-04,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,12,3.99
+2025-10-28,PD002,Soda Limão,Bebidas,PINHAIS,Fernanda Lima,19,4.75
+2025-03-25,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,João Pereira,26,6.5
+2025-07-09,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Fernanda Lima,5,9.2
+2025-08-22,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Carlos Souza,43,7.0
+2025-07-07,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Fernanda Lima,49,8.5
+2025-08-07,PD002,Soda Limão,Bebidas,PINHAIS,Ana Silva,15,4.75
+2025-03-02,PD007,Suco Laranja 1L,Sucos,PINHAIS,Ana Silva,14,9.2
+2025-11-26,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,50,6.5
+2025-07-12,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Ana Silva,12,5.25
+2025-06-25,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Carlos Souza,16,3.99
+2025-08-16,PD002,Soda Limão,Bebidas,COLOMBO,João Pereira,26,4.75
+2025-10-11,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Ricardo Alves,42,6.5
+2025-09-20,PD002,Soda Limão,Bebidas,CURITIBA,Fernanda Lima,26,4.75
+2025-08-27,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Fernanda Lima,35,6.5
+2025-07-20,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Mariana Costa,6,5.25
+2025-02-16,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Carlos Souza,39,3.99
+2025-07-17,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,João Pereira,23,3.99
+2025-03-04,PD002,Soda Limão,Bebidas,PINHAIS,Fernanda Lima,50,4.75
+2025-04-16,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,João Pereira,8,5.25
+2025-05-05,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,João Pereira,49,5.25
+2025-11-20,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,47,5.25
+2025-01-27,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Fernanda Lima,11,5.25
+2025-07-06,PD007,Suco Laranja 1L,Sucos,PINHAIS,Ricardo Alves,40,9.2
+2025-06-09,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Ana Silva,23,8.5
+2025-06-19,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Carlos Souza,5,7.0
+2025-12-19,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Ana Silva,11,5.25
+2025-12-15,PD006,Chocolate Barra 90g,Doces,PINHAIS,Ricardo Alves,31,8.5
+2025-02-26,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Ricardo Alves,24,8.5
+2025-08-29,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,João Pereira,18,7.0
+2025-05-29,PD007,Suco Laranja 1L,Sucos,PINHAIS,Carlos Souza,22,9.2
+2025-07-08,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Carlos Souza,14,5.25
+2025-04-05,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,João Pereira,8,6.5
+2025-01-29,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,João Pereira,40,7.0
+2025-03-24,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Ricardo Alves,43,6.5
+2025-05-18,PD006,Chocolate Barra 90g,Doces,COLOMBO,Carlos Souza,17,8.5
+2025-11-06,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,18,4.75
+2025-11-29,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,Fernanda Lima,38,5.25
+2025-08-25,PD007,Suco Laranja 1L,Sucos,PINHAIS,Carlos Souza,38,9.2
+2025-02-06,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Fernanda Lima,44,7.0
+2025-06-05,PD002,Soda Limão,Bebidas,COLOMBO,Ana Silva,37,4.75
+2025-02-05,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Carlos Souza,43,7.0
+2025-11-30,PD003,Água Tônica Clássica,Bebidas,COLOMBO,João Pereira,17,3.99
+2025-08-08,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,João Pereira,22,9.2
+2025-03-06,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Fernanda Lima,43,7.0
+2025-05-28,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,15,8.5
+2025-10-19,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Carlos Souza,44,7.0
+2025-04-14,PD003,Água Tônica Clássica,Bebidas,CURITIBA,Ana Silva,33,3.99
+2025-07-03,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Fernanda Lima,37,5.25
+2025-03-23,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Ana Silva,25,3.99
+2025-01-03,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Fernanda Lima,45,5.25
+2025-12-05,PD006,Chocolate Barra 90g,Doces,COLOMBO,Mariana Costa,25,8.5
+2025-09-02,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Carlos Souza,46,5.25
+2025-04-09,PD006,Chocolate Barra 90g,Doces,COLOMBO,João Pereira,42,8.5
+2025-09-28,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Ana Silva,32,3.99
+2025-12-08,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Fernanda Lima,28,6.5
+2025-12-19,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,46,3.99
+2025-10-18,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,14,7.0
+2025-03-13,PD007,Suco Laranja 1L,Sucos,PINHAIS,Fernanda Lima,32,9.2
+2025-07-19,PD006,Chocolate Barra 90g,Doces,COLOMBO,Ana Silva,17,8.5
+2025-04-23,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,40,7.0
+2025-09-05,PD007,Suco Laranja 1L,Sucos,COLOMBO,João Pereira,48,9.2
+2025-04-05,PD006,Chocolate Barra 90g,Doces,COLOMBO,João Pereira,43,8.5
+2025-06-16,PD007,Suco Laranja 1L,Sucos,CURITIBA,Fernanda Lima,13,9.2
+2025-01-12,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Ricardo Alves,26,6.5
+2025-06-21,PD003,Água Tônica Clássica,Bebidas,CURITIBA,Mariana Costa,34,3.99
+2025-12-07,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,João Pereira,25,5.25
+2025-02-18,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Mariana Costa,22,4.75
+2025-11-28,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Ricardo Alves,9,3.99
+2025-03-05,PD006,Chocolate Barra 90g,Doces,COLOMBO,Mariana Costa,23,8.5
+2025-08-21,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Ricardo Alves,25,3.99
+2025-07-27,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Mariana Costa,6,6.5
+2025-02-14,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Carlos Souza,47,5.25
+2025-02-22,PD002,Soda Limão,Bebidas,CURITIBA,Carlos Souza,27,4.75
+2025-11-24,PD006,Chocolate Barra 90g,Doces,CURITIBA,Ana Silva,6,8.5
+2025-05-21,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Ana Silva,9,6.5
+2025-05-10,PD003,Água Tônica Clássica,Bebidas,COLOMBO,João Pereira,11,3.99
+2025-09-09,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,João Pereira,6,9.2
+2025-11-21,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,João Pereira,14,9.2
+2025-11-14,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Fernanda Lima,36,7.0
+2025-12-25,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,João Pereira,19,7.0
+2025-06-14,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,João Pereira,16,9.2
+2025-11-01,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,24,5.25
+2025-05-05,PD006,Chocolate Barra 90g,Doces,CURITIBA,Fernanda Lima,23,8.5
+2025-11-06,PD006,Chocolate Barra 90g,Doces,COLOMBO,Carlos Souza,7,8.5
+2025-07-30,PD006,Chocolate Barra 90g,Doces,PINHAIS,Ricardo Alves,18,8.5
+2025-05-01,PD007,Suco Laranja 1L,Sucos,PINHAIS,João Pereira,23,9.2
+2025-09-19,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Carlos Souza,22,8.5
+2025-02-14,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,44,7.0
+2025-07-07,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Ricardo Alves,18,4.75
+2025-08-22,PD002,Soda Limão,Bebidas,PINHAIS,Ricardo Alves,6,4.75
+2025-08-09,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Fernanda Lima,30,8.5
+2025-11-26,PD002,Soda Limão,Bebidas,CURITIBA,Carlos Souza,16,4.75
+2025-07-12,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,33,8.5
+2025-12-20,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,48,8.5
+2025-09-02,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,23,7.0
+2025-11-13,PD007,Suco Laranja 1L,Sucos,PINHAIS,Fernanda Lima,48,9.2
+2025-09-29,PD002,Soda Limão,Bebidas,CURITIBA,Ana Silva,30,4.75
+2025-10-05,PD007,Suco Laranja 1L,Sucos,CURITIBA,Ana Silva,40,9.2
+2025-12-05,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Fernanda Lima,39,6.5
+2025-03-15,PD002,Soda Limão,Bebidas,COLOMBO,Fernanda Lima,14,4.75
+2025-05-16,PD003,Água Tônica Clássica,Bebidas,CURITIBA,Carlos Souza,19,3.99
+2025-09-19,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Ricardo Alves,44,7.0
+2025-06-05,PD007,Suco Laranja 1L,Sucos,CURITIBA,Ricardo Alves,41,9.2
+2025-08-12,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Ana Silva,32,6.5
+2025-08-20,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Fernanda Lima,45,3.99
+2025-09-01,PD002,Soda Limão,Bebidas,CURITIBA,Ricardo Alves,34,4.75
+2025-11-26,PD006,Chocolate Barra 90g,Doces,COLOMBO,Fernanda Lima,12,8.5
+2025-06-17,PD006,Chocolate Barra 90g,Doces,PINHAIS,Mariana Costa,36,8.5
+2025-06-27,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Ana Silva,16,7.0
+2025-05-18,PD006,Chocolate Barra 90g,Doces,PINHAIS,Mariana Costa,23,8.5
+2025-05-05,PD003,Água Tônica Clássica,Bebidas,PINHAIS,João Pereira,5,3.99
+2025-12-28,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Fernanda Lima,36,5.25
+2025-08-31,PD006,Chocolate Barra 90g,Doces,CURITIBA,Carlos Souza,18,8.5
+2025-01-21,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Mariana Costa,38,9.2
+2025-12-22,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Carlos Souza,31,6.5
+2025-11-14,PD006,Chocolate Barra 90g,Doces,PINHAIS,João Pereira,21,8.5
+2025-11-01,PD003,Água Tônica Clássica,Bebidas,PINHAIS,Mariana Costa,15,3.99
+2025-03-28,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,João Pereira,37,5.25
+2025-02-25,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Ana Silva,46,6.5
+2025-11-10,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,João Pereira,48,6.5
+2025-04-17,PD002,Soda Limão,Bebidas,PINHAIS,Fernanda Lima,19,4.75
+2025-10-28,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,João Pereira,6,9.2
+2025-01-15,PD007,Suco Laranja 1L,Sucos,COLOMBO,Ana Silva,43,9.2
+2025-12-29,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,14,6.5
+2025-11-26,PD007,Suco Laranja 1L,Sucos,CURITIBA,Mariana Costa,11,9.2
+2025-10-29,PD006,Chocolate Barra 90g,Doces,PINHAIS,Fernanda Lima,45,8.5
+2025-06-16,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Fernanda Lima,32,9.2
+2025-05-10,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Mariana Costa,17,7.0
+2025-12-07,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,Ana Silva,42,5.25
+2025-10-05,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,13,6.5
+2025-07-30,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,João Pereira,46,9.2
+2025-01-23,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,João Pereira,12,5.25
+2025-07-24,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,João Pereira,33,4.75
+2025-04-18,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,15,6.5
+2025-12-13,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Mariana Costa,16,7.0
+2025-08-18,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,48,7.0
+2025-09-07,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Carlos Souza,31,8.5
+2025-01-10,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Carlos Souza,6,6.5
+2025-04-08,PD002,Soda Limão,Bebidas,CURITIBA,Ana Silva,7,4.75
+2025-08-09,PD006,Chocolate Barra 90g,Doces,COLOMBO,Carlos Souza,16,8.5
+2025-10-26,PD002,Soda Limão,Bebidas,ARAUCÁRIA,João Pereira,9,4.75
+2025-03-29,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,João Pereira,43,6.5
+2025-01-15,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,9,7.0
+2025-06-29,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Ricardo Alves,21,5.25
+2025-01-02,PD002,Soda Limão,Bebidas,COLOMBO,Carlos Souza,47,4.75
+2025-03-22,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Ricardo Alves,29,5.25
+2025-05-19,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Ricardo Alves,50,5.25
+2025-08-18,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,39,7.0
+2025-10-06,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Ana Silva,37,6.5
+2025-08-16,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,João Pereira,22,7.0
+2025-01-01,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Mariana Costa,30,7.0
+2025-09-28,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,35,6.5
+2025-10-22,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,Carlos Souza,42,6.5
+2025-03-12,PD007,Suco Laranja 1L,Sucos,CURITIBA,Mariana Costa,32,9.2
+2025-04-11,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,46,8.5
+2025-06-10,PD007,Suco Laranja 1L,Sucos,CURITIBA,Fernanda Lima,49,9.2
+2025-08-19,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,João Pereira,21,5.25
+2025-06-26,PD002,Soda Limão,Bebidas,PINHAIS,João Pereira,50,4.75
+2025-08-24,PD002,Soda Limão,Bebidas,PINHAIS,Mariana Costa,24,4.75
+2025-01-06,PD007,Suco Laranja 1L,Sucos,CURITIBA,Mariana Costa,30,9.2
+2025-01-10,PD002,Soda Limão,Bebidas,COLOMBO,Ana Silva,20,4.75
+2025-01-03,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Carlos Souza,7,5.25
+2025-03-09,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Ricardo Alves,31,7.0
+2025-12-12,PD006,Chocolate Barra 90g,Doces,COLOMBO,Fernanda Lima,27,8.5
+2025-03-20,PD006,Chocolate Barra 90g,Doces,PINHAIS,Ana Silva,8,8.5
+2025-12-07,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,João Pereira,35,3.99
+2025-06-18,PD006,Chocolate Barra 90g,Doces,COLOMBO,Ana Silva,6,8.5
+2025-03-27,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Ana Silva,26,4.75
+2025-01-16,PD007,Suco Laranja 1L,Sucos,COLOMBO,Carlos Souza,36,9.2
+2025-04-11,PD002,Soda Limão,Bebidas,CURITIBA,João Pereira,34,4.75
+2025-01-30,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Mariana Costa,15,3.99
+2025-11-21,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Ana Silva,18,6.5
+2025-04-21,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Mariana Costa,38,7.0
+2025-07-25,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Ana Silva,23,3.99
+2025-06-26,PD006,Chocolate Barra 90g,Doces,PINHAIS,Carlos Souza,43,8.5
+2025-06-12,PD007,Suco Laranja 1L,Sucos,CURITIBA,Carlos Souza,35,9.2
+2025-02-18,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Fernanda Lima,30,3.99
+2025-02-16,PD002,Soda Limão,Bebidas,COLOMBO,Mariana Costa,30,4.75
+2025-06-15,PD007,Suco Laranja 1L,Sucos,COLOMBO,Ricardo Alves,8,9.2
+2025-10-22,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Carlos Souza,36,5.25
+2025-08-07,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,João Pereira,13,9.2
+2025-01-16,PD002,Soda Limão,Bebidas,COLOMBO,Ana Silva,46,4.75
+2025-01-02,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,9,7.0
+2025-02-09,PD003,Água Tônica Clássica,Bebidas,PINHAIS,Ana Silva,27,3.99
+2025-07-29,PD007,Suco Laranja 1L,Sucos,CURITIBA,Fernanda Lima,7,9.2
+2025-08-03,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,João Pereira,17,9.2
+2025-07-14,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,João Pereira,40,9.2
+2025-12-12,PD006,Chocolate Barra 90g,Doces,PINHAIS,Carlos Souza,22,8.5
+2025-07-10,PD006,Chocolate Barra 90g,Doces,CURITIBA,Ricardo Alves,8,8.5
+2025-05-15,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Carlos Souza,10,7.0
+2025-08-08,PD002,Soda Limão,Bebidas,PINHAIS,João Pereira,11,4.75
+2025-04-11,PD002,Soda Limão,Bebidas,CURITIBA,João Pereira,29,4.75
+2025-02-09,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,34,7.0
+2025-03-16,PD007,Suco Laranja 1L,Sucos,PINHAIS,Ana Silva,37,9.2
+2025-02-27,PD006,Chocolate Barra 90g,Doces,COLOMBO,Mariana Costa,19,8.5
+2025-03-20,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,Ricardo Alves,33,5.25
+2025-06-16,PD007,Suco Laranja 1L,Sucos,PINHAIS,João Pereira,12,9.2
+2025-12-13,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Ricardo Alves,17,3.99
+2025-02-11,PD006,Chocolate Barra 90g,Doces,COLOMBO,João Pereira,47,8.5
+2025-11-09,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Ricardo Alves,31,6.5
+2025-01-25,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Ricardo Alves,39,7.0
+2025-06-16,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Mariana Costa,13,6.5
+2025-06-17,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Mariana Costa,43,5.25
+2025-04-03,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,João Pereira,38,3.99
+2025-04-10,PD007,Suco Laranja 1L,Sucos,COLOMBO,Carlos Souza,24,9.2
+2025-03-22,PD006,Chocolate Barra 90g,Doces,PINHAIS,Mariana Costa,27,8.5
+2025-01-04,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Ana Silva,15,7.0
+2025-08-11,PD007,Suco Laranja 1L,Sucos,PINHAIS,Fernanda Lima,21,9.2
+2025-02-28,PD002,Soda Limão,Bebidas,COLOMBO,Carlos Souza,9,4.75
+2025-11-10,PD007,Suco Laranja 1L,Sucos,PINHAIS,Ricardo Alves,16,9.2
+2025-11-25,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Ricardo Alves,24,6.5
+2025-04-14,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,João Pereira,9,7.0
+2025-04-07,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Fernanda Lima,50,5.25
+2025-08-27,PD007,Suco Laranja 1L,Sucos,CURITIBA,Ana Silva,14,9.2
+2025-08-12,PD007,Suco Laranja 1L,Sucos,CURITIBA,Ricardo Alves,33,9.2
+2025-03-19,PD007,Suco Laranja 1L,Sucos,COLOMBO,Fernanda Lima,34,9.2
+2025-09-13,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Ana Silva,20,5.25
+2025-11-30,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Mariana Costa,17,7.0
+2025-06-27,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Mariana Costa,35,3.99
+2025-07-29,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Ana Silva,30,5.25
+2025-09-21,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Ana Silva,13,8.5
+2025-09-13,PD006,Chocolate Barra 90g,Doces,SÃO JOSÉ DOS PINHAIS,Carlos Souza,8,8.5
+2025-08-24,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Ana Silva,42,3.99
+2025-05-21,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Fernanda Lima,16,4.75
+2025-11-13,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,João Pereira,32,7.0
+2025-10-17,PD007,Suco Laranja 1L,Sucos,PINHAIS,Carlos Souza,45,9.2
+2025-02-26,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Carlos Souza,45,7.0
+2025-01-08,PD002,Soda Limão,Bebidas,PINHAIS,Ana Silva,8,4.75
+2025-04-26,PD001,Refrigerante Framboesa,Bebidas,PINHAIS,Fernanda Lima,13,6.5
+2025-04-15,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,27,5.25
+2025-12-29,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Ana Silva,15,5.25
+2025-02-21,PD007,Suco Laranja 1L,Sucos,CURITIBA,Ricardo Alves,26,9.2
+2025-02-02,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Fernanda Lima,50,7.0
+2025-05-03,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Mariana Costa,27,6.5
+2025-01-03,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,Ana Silva,42,9.2
+2025-10-11,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Mariana Costa,36,3.99
+2025-09-23,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,20,4.75
+2025-04-21,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,18,3.99
+2025-02-20,PD003,Água Tônica Clássica,Bebidas,PINHAIS,João Pereira,50,3.99
+2025-09-21,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Fernanda Lima,45,8.5
+2025-01-09,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Mariana Costa,10,7.0
+2025-12-21,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,João Pereira,46,6.5
+2025-09-20,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Ricardo Alves,39,8.5
+2025-04-14,PD007,Suco Laranja 1L,Sucos,COLOMBO,Fernanda Lima,48,9.2
+2025-11-14,PD005,Salgadinho Cebola 100g,Salgados,COLOMBO,Mariana Costa,20,5.25
+2025-10-23,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,João Pereira,35,5.25
+2025-05-18,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,6,3.99
+2025-07-03,PD001,Refrigerante Framboesa,Bebidas,COLOMBO,Ana Silva,14,6.5
+2025-10-07,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Ana Silva,44,7.0
+2025-04-24,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Fernanda Lima,21,6.5
+2025-05-13,PD006,Chocolate Barra 90g,Doces,CURITIBA,Ricardo Alves,20,8.5
+2025-11-26,PD007,Suco Laranja 1L,Sucos,CURITIBA,João Pereira,7,9.2
+2025-10-26,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Ricardo Alves,23,5.25
+2025-03-02,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,João Pereira,24,9.2
+2025-07-09,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Carlos Souza,24,3.99
+2025-04-02,PD007,Suco Laranja 1L,Sucos,PINHAIS,Mariana Costa,9,9.2
+2025-04-06,PD004,Refrigerante Gengibre,Bebidas,CURITIBA,Ana Silva,24,7.0
+2025-05-20,PD004,Refrigerante Gengibre,Bebidas,ARAUCÁRIA,Carlos Souza,23,7.0
+2025-01-12,PD003,Água Tônica Clássica,Bebidas,PINHAIS,Mariana Costa,9,3.99
+2025-10-25,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Mariana Costa,36,7.0
+2025-12-14,PD003,Água Tônica Clássica,Bebidas,CURITIBA,Ana Silva,11,3.99
+2025-09-18,PD007,Suco Laranja 1L,Sucos,COLOMBO,Carlos Souza,10,9.2
+2025-02-04,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,Mariana Costa,28,7.0
+2025-07-20,PD003,Água Tônica Clássica,Bebidas,COLOMBO,João Pereira,22,3.99
+2025-03-07,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Ricardo Alves,23,5.25
+2025-03-08,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Ricardo Alves,25,5.25
+2025-03-31,PD006,Chocolate Barra 90g,Doces,CURITIBA,João Pereira,5,8.5
+2025-11-15,PD002,Soda Limão,Bebidas,CURITIBA,Carlos Souza,22,4.75
+2025-04-15,PD007,Suco Laranja 1L,Sucos,PINHAIS,Mariana Costa,46,9.2
+2025-10-10,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Ricardo Alves,21,6.5
+2025-03-18,PD003,Água Tônica Clássica,Bebidas,CURITIBA,Mariana Costa,14,3.99
+2025-05-07,PD003,Água Tônica Clássica,Bebidas,COLOMBO,João Pereira,47,3.99
+2025-09-26,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Ana Silva,41,5.25
+2025-05-11,PD002,Soda Limão,Bebidas,CURITIBA,Ana Silva,42,4.75
+2025-06-29,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,João Pereira,34,6.5
+2025-04-29,PD007,Suco Laranja 1L,Sucos,CURITIBA,Mariana Costa,26,9.2
+2025-10-04,PD006,Chocolate Barra 90g,Doces,PINHAIS,Ricardo Alves,10,8.5
+2025-12-18,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Mariana Costa,20,6.5
+2025-06-14,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,João Pereira,24,8.5
+2025-06-16,PD002,Soda Limão,Bebidas,CURITIBA,João Pereira,15,4.75
+2025-01-08,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Ricardo Alves,19,7.0
+2025-03-03,PD007,Suco Laranja 1L,Sucos,PINHAIS,Mariana Costa,14,9.2
+2025-09-10,PD002,Soda Limão,Bebidas,PINHAIS,Fernanda Lima,7,4.75
+2025-07-28,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Fernanda Lima,47,5.25
+2025-09-07,PD002,Soda Limão,Bebidas,COLOMBO,João Pereira,6,4.75
+2025-08-02,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,22,4.75
+2025-12-05,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Ana Silva,16,9.2
+2025-03-17,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Ricardo Alves,14,5.25
+2025-05-04,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Ana Silva,33,7.0
+2025-03-19,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Ricardo Alves,24,7.0
+2025-04-09,PD003,Água Tônica Clássica,Bebidas,COLOMBO,Ricardo Alves,31,3.99
+2025-08-14,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Carlos Souza,36,8.5
+2025-08-14,PD001,Refrigerante Framboesa,Bebidas,CURITIBA,Mariana Costa,37,6.5
+2025-11-10,PD007,Suco Laranja 1L,Sucos,COLOMBO,Mariana Costa,44,9.2
+2025-03-29,PD003,Água Tônica Clássica,Bebidas,PINHAIS,João Pereira,17,3.99
+2025-07-05,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Fernanda Lima,45,5.25
+2025-03-20,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,Mariana Costa,48,3.99
+2025-05-16,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Carlos Souza,28,6.5
+2025-05-30,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,12,6.5
+2025-11-22,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Ricardo Alves,24,9.2
+2025-08-20,PD002,Soda Limão,Bebidas,COLOMBO,Mariana Costa,15,4.75
+2025-12-19,PD006,Chocolate Barra 90g,Doces,COLOMBO,Fernanda Lima,24,8.5
+2025-01-15,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,João Pereira,45,6.5
+2025-01-11,PD006,Chocolate Barra 90g,Doces,CURITIBA,Mariana Costa,48,8.5
+2025-08-03,PD002,Soda Limão,Bebidas,PINHAIS,Carlos Souza,29,4.75
+2025-01-25,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,João Pereira,30,5.25
+2025-10-10,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,24,4.75
+2025-05-10,PD007,Suco Laranja 1L,Sucos,ARAUCÁRIA,Carlos Souza,23,9.2
+2025-09-18,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Mariana Costa,35,5.25
+2025-10-25,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Ricardo Alves,20,5.25
+2025-10-29,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Carlos Souza,27,8.5
+2025-01-11,PD001,Refrigerante Framboesa,Bebidas,SÃO JOSÉ DOS PINHAIS,Ana Silva,16,6.5
+2025-11-24,PD002,Soda Limão,Bebidas,PINHAIS,Mariana Costa,36,4.75
+2025-05-29,PD006,Chocolate Barra 90g,Doces,PINHAIS,Mariana Costa,22,8.5
+2025-05-19,PD005,Salgadinho Cebola 100g,Salgados,ARAUCÁRIA,Ana Silva,27,5.25
+2025-04-08,PD006,Chocolate Barra 90g,Doces,CURITIBA,Ricardo Alves,35,8.5
+2025-04-07,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,João Pereira,8,9.2
+2025-02-23,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Ricardo Alves,19,5.25
+2025-08-14,PD001,Refrigerante Framboesa,Bebidas,ARAUCÁRIA,Fernanda Lima,21,6.5
+2025-11-25,PD005,Salgadinho Cebola 100g,Salgados,PINHAIS,Ana Silva,42,5.25
+2025-05-24,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Carlos Souza,24,5.25
+2025-12-30,PD004,Refrigerante Gengibre,Bebidas,COLOMBO,João Pereira,7,7.0
+2025-06-12,PD006,Chocolate Barra 90g,Doces,ARAUCÁRIA,Carlos Souza,17,8.5
+2025-07-08,PD002,Soda Limão,Bebidas,ARAUCÁRIA,Mariana Costa,40,4.75
+2025-11-16,PD002,Soda Limão,Bebidas,COLOMBO,Ana Silva,37,4.75
+2025-09-04,PD005,Salgadinho Cebola 100g,Salgados,SÃO JOSÉ DOS PINHAIS,Ana Silva,33,5.25
+2025-04-04,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,João Pereira,37,4.75
+2025-09-06,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,30,3.99
+2025-02-24,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,22,3.99
+2025-05-27,PD007,Suco Laranja 1L,Sucos,SÃO JOSÉ DOS PINHAIS,João Pereira,48,9.2
+2025-01-14,PD002,Soda Limão,Bebidas,SÃO JOSÉ DOS PINHAIS,Ricardo Alves,24,4.75
+2025-10-28,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Ana Silva,30,3.99
+2025-04-21,PD004,Refrigerante Gengibre,Bebidas,PINHAIS,Fernanda Lima,34,7.0
+2025-04-24,PD004,Refrigerante Gengibre,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,35,7.0
+2025-04-13,PD003,Água Tônica Clássica,Bebidas,SÃO JOSÉ DOS PINHAIS,Fernanda Lima,39,3.99
+2025-06-20,PD003,Água Tônica Clássica,Bebidas,ARAUCÁRIA,Ricardo Alves,31,3.99
+2025-10-03,PD005,Salgadinho Cebola 100g,Salgados,CURITIBA,Ana Silva,15,5.25
