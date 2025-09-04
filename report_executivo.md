@@ -1,18 +1,17 @@
-# 📊 Análise de Desempenho de Vendas - Ano 2025
+# Análise de Desempenho de Vendas - Ano 2025
 **Insights e Recomendações Estratégicas**
 
+
+
+--- 
+
+
+<img width="600" height="329" alt="view1" src="https://github.com/user-attachments/assets/bcca8353-9ef1-4f87-8826-399126fab0ec" />
+
 ---
 
-## 📝 Slide 1: Capa
-**Título:** Análise de Desempenho de Vendas - Ano 2025  
-**Subtítulo:** Insights e Recomendações Estratégicas  
 
-📷 *Screenshot da página "Panorama Geral"*
-
----
-
-## 📝 Slide 2: Resumo Executivo
-### Principais Descobertas e Recomendações
+## Principais Descobertas e Recomendações
 
 - **Sazonalidade:**  
   - As vendas apresentam forte sazonalidade.  
@@ -31,20 +30,24 @@
 
 ---
 
-## 📝 Slide 3: Panorama de Vendas 2025
-📷 *Screenshot da página "Panorama Geral"*
+## Panorama de Vendas 2025
+
+<img width="600" height="329" alt="view1" src="https://github.com/user-attachments/assets/4442a8bb-fa91-4674-81c0-4d1b9e5c8f29" />
+
 
 - **Faturamento Total:** **R$ 179 Mil**  
 - **Produtos Vendidos:** **27 Mil**  
 - **Transações:** **1000**  
 - **Preço Médio por Produto:** **R$ 6,57**  
 
-📈 O gráfico de tendência mensal mostra uma **recuperação no 2º semestre**, superando a média de **R$ 14,6 Mil** a partir de Agosto.
+ O gráfico de tendência mensal mostra uma **recuperação no 2º semestre**, superando a média de **R$ 14,6 Mil** a partir de Agosto.
 
 ---
 
-## 📝 Slide 4: Análise de Portfólio de Produtos
-📷 *Screenshot dos gráficos de Rosca de Categoria e Ranking de Produtos*
+## Análise de Portfólio de Produtos
+
+<img width="476" height="268" alt="view2" src="https://github.com/user-attachments/assets/04194acb-4c4b-4a74-9370-2edb0a3494ab" />
+
 
 - **Produto Líder em Volume:** Água Tônica (**4,2 Mil unidades**)  
 - **Destaques em Faturamento:** Barra de Chocolate e Salgadinho (**4,1 Mil unidades cada**)  
@@ -52,8 +55,10 @@
 
 ---
 
-## 📝 Slide 5: Análise Geográfica e de Equipe
-📷 *Screenshot da Matriz Filial vs. Produto e do Ranking de Vendedores*
+##  Análise Geográfica e de Equipe
+
+<img width="292" height="275" alt="view5" src="https://github.com/user-attachments/assets/312531f4-cd96-4a9c-98fd-a73ed47d5a62" />
+
 
 - **Regional:**  
   - Curitiba → forte em **Salgadinhos**  
@@ -66,7 +71,7 @@
 
 ---
 
-## ✅ Conclusão
+##  Conclusão
 O ano de 2025 trouxe **crescimento consistente no 2º semestre** e revelou **produtos e regiões-chave** para o negócio.  
 O foco estratégico deve estar em:  
 - Potencializar sazonalidade em Outubro/Novembro  
